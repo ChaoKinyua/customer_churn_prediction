@@ -3,7 +3,7 @@
 A machine learning-powered web application that predicts customer churn and provides actionable retention recommendations. Built with Streamlit for easy deployment and interactive user experience.
 
 **Live Application:** [Customer Churn Prediction System](https://customerchurnprediction-vntzryanyqsot2zuadtfzt.streamlit.app/#services)
-
+**You may view how it works via this video:** [click link to watch the explainer video](https://drive.google.com/drive/folders/1_CBUd6-h25hLr-W5ML4MEL2Kbj9IKGXp?usp=sharing)
 ---
 
 ## 📋 Overview
