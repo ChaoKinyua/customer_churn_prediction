@@ -4,7 +4,7 @@ A machine learning-powered web application that predicts customer churn and prov
 
 **Live Application:** [Customer Churn Prediction System](https://customerchurnprediction-vntzryanyqsot2zuadtfzt.streamlit.app/#services)
 ---
-**You may view how it works via this video:** [click link to watch the explainer video](https://drive.google.com/drive/folders/1_CBUd6-h25hLr-W5ML4MEL2Kbj9IKGXp?usp=sharing)
+**You may view how it works via this video:** [click link to watch the explainer video](https://drive.google.com/file/d/1JUNi6Nu9UEUWfC9MlSQuWeR7qMJMb9Ks/view?usp=sharing)
 ---
 
 ## 📋 Overview
